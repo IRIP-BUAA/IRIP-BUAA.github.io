@@ -25,7 +25,11 @@ def extract_md_data(md_content):
             data['tags'] = line.split(': ')[1].strip().replace('[','').replace(']','').replace(' ','')
         elif line.startswith('categories:'):
             data['categories'] = line.split(': ')[1].strip().replace('[','').replace(']','').replace(' ','')
-
+        elif line.startswith('- Link:'):
+            data['paper_Link'] = line.split(': ')[1].strip()
+        elif line.startswith('- 代码源链接'):
+            data['dataset_Link'] = line.split(': ')[1].strip()
+      
     return data
 
 def sanitize_tag(tag):
@@ -40,6 +44,8 @@ def generate_readme(md_files_data):
         title = data.get('title', 'N/A')
         published_in = data.get('Published in', 'N/A')
         categories = data.get('categories', 'N/A')
+        paper_Link = data.get('paper_Link', 'N/A')
+        dataset_Link = data.get('dataset_Link', 'N/A')
         tags = [sanitize_tag(tag) for tag in data.get('tags', '').split(',')]
         first_tag = tags[0] if tags else 'Other'
         second_tag = tags[1] if len(tags) > 1 else 'General'
@@ -49,7 +55,9 @@ def generate_readme(md_files_data):
             'title': title,
             'published_in': published_in,
             'categories': categories,
-            'link': detailed_link
+            'link': detailed_link,
+            'paper_Link': paper_Link,
+            'dataset_Link': dataset_Link
         })
 
     for first_tag, second_tags in tags_dict.items():
@@ -57,15 +65,15 @@ def generate_readme(md_files_data):
         for second_tag, papers in second_tags.items():
             readme_content += f"## {second_tag}\n\n"
             if first_tag.lower() == 'dataset':
-                readme_content += "| Paper Name | Categories | Detailed Info |\n"
+                readme_content += "| Dataset Name | Categories | Detailed Info |\n"
                 readme_content += "|------------|------------|---------------|\n"
                 for paper in papers:
-                    readme_content += f"| {paper['title']} | {paper['categories']} | [Link]({paper['link']}) |\n"
+                    readme_content += f"| [{paper['title']}]({paper['dataset_Link']}) | {paper['categories']} | [Link]({paper['link']}) |\n"
             else:
                 readme_content += "| Paper Name | Published in | Detailed Info |\n"
                 readme_content += "|------------|--------------|---------------|\n"
                 for paper in papers:
-                    readme_content += f"| {paper['title']} | {paper['published_in']} | [Link]({paper['link']}) |\n"
+                    readme_content += f"| [{paper['title']}]({paper['paper_Link']}) | {paper['published_in']} | [Link]({paper['link']}) |\n"
             readme_content += "\n"
 
     return readme_content
