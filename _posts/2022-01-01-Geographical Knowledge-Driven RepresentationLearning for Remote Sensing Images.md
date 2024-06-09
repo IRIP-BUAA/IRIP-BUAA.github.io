@@ -1,7 +1,7 @@
 ---
 title: Geographical Knowledge-Driven RepresentationLearning for Remote Sensing Images
 author: Zack
-date: 2022-01-02 00:00:00 +0800
+date: 2022-09-25 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: CMID A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding
 author: Zack
-date: 2023-11-28 00:00:00 +0800
+date: 2023-08-15 00:00:00 +0800
 categories: [TGRS]
 tags: [paper, Pretrain]
 math: true

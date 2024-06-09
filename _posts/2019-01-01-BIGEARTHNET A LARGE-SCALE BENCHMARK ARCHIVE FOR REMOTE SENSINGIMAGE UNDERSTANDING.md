@@ -1,7 +1,7 @@
 ---
 title: BIGEARTHNET A LARGE-SCALE BENCHMARK ARCHIVE FOR REMOTE SENSINGIMAGE UNDERSTANDING
 author: Zack
-date: 2019-06-08 00:00:00 +0800
+date: 2019-03-13 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

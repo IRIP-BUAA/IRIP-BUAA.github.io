@@ -1,7 +1,7 @@
 ---
 title: ISPRS Vaihingen
 author: Zack
-date: 2012-07-02 00:00:00 +0800
+date: 2012-11-05 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Tree-GPT Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis
 author: Zack
-date: 2023-01-14 00:00:00 +0800
+date: 2023-03-22 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Agent]
 math: true

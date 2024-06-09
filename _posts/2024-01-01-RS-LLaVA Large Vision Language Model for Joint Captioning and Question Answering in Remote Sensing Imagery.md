@@ -1,7 +1,7 @@
 ---
 title: RS-LLaVA Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery
 author: Zack
-date: 2024-09-23 00:00:00 +0800
+date: 2024-03-15 00:00:00 +0800
 categories: [RS]
 tags: [paper, MLLM]
 math: true

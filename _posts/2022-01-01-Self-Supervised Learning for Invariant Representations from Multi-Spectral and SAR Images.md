@@ -1,7 +1,7 @@
 ---
 title: Self-Supervised Learning for Invariant Representations from Multi-Spectral and SAR Images
 author: Zack
-date: 2022-06-28 00:00:00 +0800
+date: 2022-12-05 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Tile2Vec Unsupervised representation learning for spatially distributed data
 author: Zack
-date: 2019-03-17 00:00:00 +0800
+date: 2019-09-08 00:00:00 +0800
 categories: [AAAI]
 tags: [paper, Pretrain]
 math: true

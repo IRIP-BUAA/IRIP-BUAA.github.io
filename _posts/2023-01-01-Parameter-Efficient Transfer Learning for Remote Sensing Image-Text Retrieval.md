@@ -1,7 +1,7 @@
 ---
 title: Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval
 author: Zack
-date: 2023-12-25 00:00:00 +0800
+date: 2023-02-13 00:00:00 +0800
 categories: [TGRS]
 tags: [paper, VLM]
 math: true

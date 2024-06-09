@@ -1,7 +1,7 @@
 ---
 title: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment
 author: Zack
-date: 2024-05-05 00:00:00 +0800
+date: 2024-05-21 00:00:00 +0800
 categories: [ICLR]
 tags: [paper, VLM]
 math: true

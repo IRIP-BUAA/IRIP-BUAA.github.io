@@ -1,7 +1,7 @@
 ---
 title: EarthView
 author: Zack
-date: 2024-06-03 00:00:00 +0800
+date: 2024-03-08 00:00:00 +0800
 categories: [单模态预训练]
 tags: [dataset, 图像]
 math: true

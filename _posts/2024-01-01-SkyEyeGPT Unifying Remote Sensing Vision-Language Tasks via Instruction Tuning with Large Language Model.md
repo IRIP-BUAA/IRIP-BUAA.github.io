@@ -1,7 +1,7 @@
 ---
 title: SkyEyeGPT Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
 author: Zack
-date: 2024-02-16 00:00:00 +0800
+date: 2024-05-19 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, MLLM]
 math: true

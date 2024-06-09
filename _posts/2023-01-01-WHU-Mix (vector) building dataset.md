@@ -1,7 +1,7 @@
 ---
 title: WHU-Mix (vector) building dataset
 author: Zack
-date: 2023-04-07 00:00:00 +0800
+date: 2023-09-04 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Language-aware domain generalization network for cross-scene hyperspectral image classification
 author: Zack
-date: 2023-11-28 00:00:00 +0800
+date: 2023-11-22 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, VLM]
 math: true

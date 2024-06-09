@@ -1,7 +1,7 @@
 ---
 title: Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks
 author: Zack
-date: 2022-05-06 00:00:00 +0800
+date: 2022-07-06 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

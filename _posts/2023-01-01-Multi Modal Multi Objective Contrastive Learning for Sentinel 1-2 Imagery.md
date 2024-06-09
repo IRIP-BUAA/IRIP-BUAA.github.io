@@ -1,7 +1,7 @@
 ---
 title: Multi Modal Multi Objective Contrastive Learning for Sentinel 1-2 Imagery
 author: Zack
-date: 2023-01-13 00:00:00 +0800
+date: 2023-12-01 00:00:00 +0800
 categories: [CVPRW]
 tags: [paper, Pretrain]
 math: true

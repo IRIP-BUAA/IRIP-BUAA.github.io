@@ -1,7 +1,7 @@
 ---
 title: WHU_GID中的secenClass部分
 author: Zack
-date: 2018-06-03 00:00:00 +0800
+date: 2018-12-12 00:00:00 +0800
 categories: [分类]
 tags: [dataset, 图像]
 math: true

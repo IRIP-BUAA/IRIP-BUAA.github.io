@@ -1,7 +1,7 @@
 ---
 title: Self-Supervised Spatio-Temporal Representation Learning of Satellite Image Time Series
 author: Zack
-date: 2024-08-04 00:00:00 +0800
+date: 2024-05-14 00:00:00 +0800
 categories: [JSTARS]
 tags: [paper, Pretrain]
 math: true

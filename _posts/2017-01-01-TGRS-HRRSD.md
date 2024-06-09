@@ -1,7 +1,7 @@
 ---
 title: TGRS-HRRSD
 author: Zack
-date: 2017-02-01 00:00:00 +0800
+date: 2017-04-12 00:00:00 +0800
 categories: [检测]
 tags: [dataset, 图像]
 math: true

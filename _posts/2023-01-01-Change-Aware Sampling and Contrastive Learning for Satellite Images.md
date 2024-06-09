@@ -1,7 +1,7 @@
 ---
 title: Change-Aware Sampling and Contrastive Learning for Satellite Images
 author: Zack
-date: 2023-01-16 00:00:00 +0800
+date: 2023-08-19 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

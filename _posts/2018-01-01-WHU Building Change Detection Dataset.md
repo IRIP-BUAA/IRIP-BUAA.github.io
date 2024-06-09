@@ -1,7 +1,7 @@
 ---
 title: WHU Building Change Detection Dataset
 author: Zack
-date: 2018-12-12 00:00:00 +0800
+date: 2018-01-06 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

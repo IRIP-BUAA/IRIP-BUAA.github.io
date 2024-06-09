@@ -1,7 +1,7 @@
 ---
 title: SZTAKI-INRIA AirChange
 author: Zack
-date: 2009-07-22 00:00:00 +0800
+date: 2009-11-06 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

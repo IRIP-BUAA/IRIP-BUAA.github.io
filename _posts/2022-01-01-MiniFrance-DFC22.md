@@ -1,7 +1,7 @@
 ---
 title: MiniFrance-DFC22
 author: Zack
-date: 2022-10-07 00:00:00 +0800
+date: 2022-07-17 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

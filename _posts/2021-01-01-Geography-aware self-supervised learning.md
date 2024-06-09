@@ -1,7 +1,7 @@
 ---
 title: Geography-aware self-supervised learning
 author: Zack
-date: 2021-05-26 00:00:00 +0800
+date: 2021-12-17 00:00:00 +0800
 categories: [ICCV]
 tags: [paper, Pretrain]
 math: true

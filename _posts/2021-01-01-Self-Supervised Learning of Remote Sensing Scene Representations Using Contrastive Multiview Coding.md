@@ -1,7 +1,7 @@
 ---
 title: Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding
 author: Zack
-date: 2021-04-18 00:00:00 +0800
+date: 2021-04-06 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

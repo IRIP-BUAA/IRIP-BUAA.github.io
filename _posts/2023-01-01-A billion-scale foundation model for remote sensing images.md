@@ -1,7 +1,7 @@
 ---
 title: A billion-scale foundation model for remote sensing images
 author: Zack
-date: 2023-10-17 00:00:00 +0800
+date: 2023-06-28 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

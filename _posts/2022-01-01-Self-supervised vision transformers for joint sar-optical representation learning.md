@@ -1,7 +1,7 @@
 ---
 title: Self-supervised vision transformers for joint sar-optical representation learning
 author: Zack
-date: 2022-12-27 00:00:00 +0800
+date: 2022-10-13 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

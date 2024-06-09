@@ -1,7 +1,7 @@
 ---
 title: LHRS-Bot Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model
 author: Zack
-date: 2024-02-21 00:00:00 +0800
+date: 2024-04-15 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, MLLM]
 math: true

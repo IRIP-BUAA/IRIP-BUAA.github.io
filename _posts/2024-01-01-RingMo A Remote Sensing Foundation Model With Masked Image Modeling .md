@@ -1,7 +1,7 @@
 ---
 title: RingMo A Remote Sensing Foundation Model With Masked Image Modeling 
 author: Zack
-date: 2024-03-23 00:00:00 +0800
+date: 2024-04-15 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

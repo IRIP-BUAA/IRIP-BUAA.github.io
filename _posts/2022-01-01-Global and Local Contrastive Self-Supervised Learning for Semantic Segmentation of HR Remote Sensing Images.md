@@ -1,7 +1,7 @@
 ---
 title: Global and Local Contrastive Self-Supervised Learning for Semantic Segmentation of HR Remote Sensing Images
 author: Zack
-date: 2022-04-08 00:00:00 +0800
+date: 2022-05-27 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

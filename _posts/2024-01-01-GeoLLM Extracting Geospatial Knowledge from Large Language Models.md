@@ -1,7 +1,7 @@
 ---
 title: GeoLLM Extracting Geospatial Knowledge from Large Language Models
 author: Zack
-date: 2024-07-14 00:00:00 +0800
+date: 2024-05-04 00:00:00 +0800
 categories: [ICLR]
 tags: [paper, Other]
 math: true

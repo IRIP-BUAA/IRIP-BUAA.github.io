@@ -1,7 +1,7 @@
 ---
 title: UCM-Captions
 author: Zack
-date: 2016-11-25 00:00:00 +0800
+date: 2016-02-15 00:00:00 +0800
 categories: [图文对]
 tags: [dataset, 图像、文本]
 math: true

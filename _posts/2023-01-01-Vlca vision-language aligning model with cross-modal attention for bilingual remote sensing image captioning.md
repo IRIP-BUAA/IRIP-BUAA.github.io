@@ -1,7 +1,7 @@
 ---
 title: Vlca vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning
 author: Zack
-date: 2023-10-11 00:00:00 +0800
+date: 2023-06-05 00:00:00 +0800
 categories: [J]
 tags: [paper, VLM]
 math: true

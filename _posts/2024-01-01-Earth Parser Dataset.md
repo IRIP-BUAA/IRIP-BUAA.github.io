@@ -1,7 +1,7 @@
 ---
 title: Earth Parser Dataset
 author: Zack
-date: 2024-05-01 00:00:00 +0800
+date: 2024-02-01 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: On the Foundations of Earth and Climate Foundation Models
 author: Zack
-date: 2024-12-27 00:00:00 +0800
+date: 2024-05-11 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

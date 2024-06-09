@@ -1,7 +1,7 @@
 ---
 title: AIST Building Change Detection(ABCD)
 author: Zack
-date: 2017-10-27 00:00:00 +0800
+date: 2017-10-02 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

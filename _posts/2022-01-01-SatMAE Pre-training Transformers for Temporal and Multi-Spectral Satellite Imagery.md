@@ -1,7 +1,7 @@
 ---
 title: SatMAE Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery
 author: Zack
-date: 2022-11-20 00:00:00 +0800
+date: 2022-09-07 00:00:00 +0800
 categories: [NeurIPS]
 tags: [paper, Pretrain]
 math: true

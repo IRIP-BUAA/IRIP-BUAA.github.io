@@ -1,7 +1,7 @@
 ---
 title: S-CLIP Semi-supervised Vision-Language Learning using Few Specialist Captions
 author: Zack
-date: 2023-05-18 00:00:00 +0800
+date: 2023-01-16 00:00:00 +0800
 categories: [NeurIPS]
 tags: [paper, VLM]
 math: true

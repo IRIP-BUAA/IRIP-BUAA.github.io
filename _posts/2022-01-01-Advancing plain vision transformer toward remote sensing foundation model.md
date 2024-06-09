@@ -1,7 +1,7 @@
 ---
 title: Advancing plain vision transformer toward remote sensing foundation model
 author: Zack
-date: 2022-07-11 00:00:00 +0800
+date: 2022-04-10 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

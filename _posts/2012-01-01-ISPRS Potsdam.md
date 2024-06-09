@@ -1,7 +1,7 @@
 ---
 title: ISPRS Potsdam
 author: Zack
-date: 2012-04-19 00:00:00 +0800
+date: 2012-12-22 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

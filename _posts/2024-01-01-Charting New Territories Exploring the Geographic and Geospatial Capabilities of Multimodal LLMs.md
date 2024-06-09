@@ -1,7 +1,7 @@
 ---
 title: Charting New Territories Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs
 author: Zack
-date: 2024-08-28 00:00:00 +0800
+date: 2024-04-13 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

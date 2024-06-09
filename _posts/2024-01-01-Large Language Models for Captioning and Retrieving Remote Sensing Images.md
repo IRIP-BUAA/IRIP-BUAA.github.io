@@ -1,7 +1,7 @@
 ---
 title: Large Language Models for Captioning and Retrieving Remote Sensing Images
 author: Zack
-date: 2024-01-13 00:00:00 +0800
+date: 2024-03-12 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, VLM]
 math: true

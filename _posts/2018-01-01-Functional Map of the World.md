@@ -1,7 +1,7 @@
 ---
 title: Functional Map of the World
 author: Zack
-date: 2018-07-11 00:00:00 +0800
+date: 2018-05-26 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

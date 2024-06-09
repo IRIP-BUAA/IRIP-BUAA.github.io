@@ -1,7 +1,7 @@
 ---
 title: Aeroscapes
 author: Zack
-date: 2018-05-08 00:00:00 +0800
+date: 2018-01-25 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

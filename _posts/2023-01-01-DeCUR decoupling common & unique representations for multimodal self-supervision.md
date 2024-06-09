@@ -1,7 +1,7 @@
 ---
 title: DeCUR decoupling common & unique representations for multimodal self-supervision
 author: Zack
-date: 2023-06-20 00:00:00 +0800
+date: 2023-02-19 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

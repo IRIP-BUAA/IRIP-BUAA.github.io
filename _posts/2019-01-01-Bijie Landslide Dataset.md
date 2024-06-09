@@ -1,7 +1,7 @@
 ---
 title: Bijie Landslide Dataset
 author: Zack
-date: 2019-12-18 00:00:00 +0800
+date: 2019-03-13 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

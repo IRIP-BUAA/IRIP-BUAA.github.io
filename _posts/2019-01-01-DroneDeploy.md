@@ -1,7 +1,7 @@
 ---
 title: DroneDeploy
 author: Zack
-date: 2019-08-03 00:00:00 +0800
+date: 2019-06-27 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

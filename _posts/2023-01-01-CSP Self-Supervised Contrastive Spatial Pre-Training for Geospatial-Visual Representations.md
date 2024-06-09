@@ -1,7 +1,7 @@
 ---
 title: CSP Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations
 author: Zack
-date: 2023-12-12 00:00:00 +0800
+date: 2023-11-20 00:00:00 +0800
 categories: [ICML]
 tags: [paper, Other]
 math: true

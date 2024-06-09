@@ -1,7 +1,7 @@
 ---
 title: Multi-source interactive stair attention for remote sensing image captioning
 author: Zack
-date: 2023-11-18 00:00:00 +0800
+date: 2023-12-06 00:00:00 +0800
 categories: [RS]
 tags: [paper, nan]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Sentinel-2 Cloud Mask Catalogue
 author: Zack
-date: 2020-09-01 00:00:00 +0800
+date: 2020-09-20 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Sentinel-2 Multitemporal Cities Pairs
 author: Zack
-date: 2020-12-18 00:00:00 +0800
+date: 2020-05-28 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

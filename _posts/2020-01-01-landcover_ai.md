@@ -1,7 +1,7 @@
 ---
 title: landcover_ai
 author: Zack
-date: 2020-04-12 00:00:00 +0800
+date: 2020-07-02 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

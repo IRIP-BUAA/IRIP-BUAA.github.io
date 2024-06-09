@@ -1,7 +1,7 @@
 ---
 title: Semantic segmentation of remote sensing images with self-supervised semantic-aware inpainting
 author: Zack
-date: 2022-11-07 00:00:00 +0800
+date: 2022-12-25 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

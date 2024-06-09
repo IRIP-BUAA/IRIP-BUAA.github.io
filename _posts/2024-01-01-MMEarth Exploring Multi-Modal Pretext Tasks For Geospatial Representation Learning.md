@@ -1,7 +1,7 @@
 ---
 title: MMEarth Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning
 author: Zack
-date: 2024-05-09 00:00:00 +0800
+date: 2024-04-28 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

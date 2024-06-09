@@ -1,7 +1,7 @@
 ---
 title: 2018 Open AI Tanzania Building Footprint
 author: Zack
-date: 2018-07-09 00:00:00 +0800
+date: 2018-01-15 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: SARATR-X A Foundation Model for Synthetic Aperture Radar Images Target Recognition
 author: Zack
-date: 2024-03-03 00:00:00 +0800
+date: 2024-02-20 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: SkySense A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery
 author: Zack
-date: 2024-05-28 00:00:00 +0800
+date: 2024-01-09 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

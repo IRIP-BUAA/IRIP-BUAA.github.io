@@ -1,7 +1,7 @@
 ---
 title: FoMo-Bench a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models
 author: Zack
-date: 2023-12-14 00:00:00 +0800
+date: 2023-11-26 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

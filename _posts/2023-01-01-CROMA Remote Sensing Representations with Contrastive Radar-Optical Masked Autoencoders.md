@@ -1,7 +1,7 @@
 ---
 title: CROMA Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders
 author: Zack
-date: 2023-01-19 00:00:00 +0800
+date: 2023-06-04 00:00:00 +0800
 categories: [NeurIPS]
 tags: [paper, Pretrain]
 math: true

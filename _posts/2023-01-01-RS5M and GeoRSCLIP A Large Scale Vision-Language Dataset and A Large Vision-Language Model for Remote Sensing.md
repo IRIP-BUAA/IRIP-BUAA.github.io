@@ -1,7 +1,7 @@
 ---
 title: RS5M and GeoRSCLIP A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing
 author: Zack
-date: 2023-05-08 00:00:00 +0800
+date: 2023-01-03 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, VLM]
 math: true

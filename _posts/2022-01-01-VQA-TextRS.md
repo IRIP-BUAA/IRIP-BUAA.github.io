@@ -1,7 +1,7 @@
 ---
 title: VQA-TextRS
 author: Zack
-date: 2022-06-04 00:00:00 +0800
+date: 2022-04-28 00:00:00 +0800
 categories: [VQA]
 tags: [dataset, 图像、文本]
 math: true

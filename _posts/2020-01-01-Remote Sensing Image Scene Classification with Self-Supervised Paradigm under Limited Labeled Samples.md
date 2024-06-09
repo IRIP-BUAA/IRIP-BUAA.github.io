@@ -1,7 +1,7 @@
 ---
 title: Remote Sensing Image Scene Classification with Self-Supervised Paradigm under Limited Labeled Samples
 author: Zack
-date: 2020-01-16 00:00:00 +0800
+date: 2020-10-18 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

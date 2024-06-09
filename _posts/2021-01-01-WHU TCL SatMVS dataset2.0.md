@@ -1,7 +1,7 @@
 ---
 title: WHU TCL SatMVS dataset2.0
 author: Zack
-date: 2021-04-25 00:00:00 +0800
+date: 2021-11-11 00:00:00 +0800
 categories: [图像生成]
 tags: [dataset, 图像]
 math: true

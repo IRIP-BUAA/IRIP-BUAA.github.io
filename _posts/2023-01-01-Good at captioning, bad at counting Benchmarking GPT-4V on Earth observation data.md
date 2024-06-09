@@ -1,7 +1,7 @@
 ---
 title: Good at captioning, bad at counting Benchmarking GPT-4V on Earth observation data
 author: Zack
-date: 2023-06-12 00:00:00 +0800
+date: 2023-01-20 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true
