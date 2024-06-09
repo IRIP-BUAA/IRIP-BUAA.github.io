@@ -7,7 +7,7 @@ tags: [dataset, 图像、文本]
 math: true
 pin: false
 ---
-- 数据集名称: [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions)
+- 数据集名称: NWPU-Captions
 - 任务: 遥感图像字幕
 - 发布时间: 2022
 - 模态: 图像、文本

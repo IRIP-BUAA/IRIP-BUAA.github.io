@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [DeepGlobe Land Cover Classificat](http://deepglobe.org/challenge.html)
+- 数据集名称: DeepGlobe Land Cover Classificat
 - 任务: 遥感图像分割
 - 发布时间: 2018
 - 模态: 图像

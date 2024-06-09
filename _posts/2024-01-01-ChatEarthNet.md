@@ -7,7 +7,7 @@ tags: [dataset, 图像、文本]
 math: true
 pin: false
 ---
-- 数据集名称: [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
+- 数据集名称: ChatEarthNet
 - 任务: 遥感图像图文对
 - 发布时间: 2024
 - 模态: 图像、文本

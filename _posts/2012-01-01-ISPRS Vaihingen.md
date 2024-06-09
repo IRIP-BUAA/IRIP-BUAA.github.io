@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [ISPRS Vaihingen](https://www.isprs.org/education/benchmarks/UrbanSemLab/Default.aspx)
+- 数据集名称: ISPRS Vaihingen
 - 任务: 遥感图像分割
 - 发布时间: 2012
 - 模态: 图像

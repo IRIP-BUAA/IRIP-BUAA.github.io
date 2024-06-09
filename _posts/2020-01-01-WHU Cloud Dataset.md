@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU Cloud Dataset](http://gpcv.whu.edu.cn/data/WHU_Cloud_Dataset.html)
+- 数据集名称: WHU Cloud Dataset
 - 任务: 遥感图像分割
 - 发布时间: 2020
 - 模态: 图像

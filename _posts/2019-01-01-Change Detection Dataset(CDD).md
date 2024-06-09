@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Change Detection Dataset(CDD)](https://gitlab.citius.usc.es/hiperespectral/ChangeDetectionDataset)
+- 数据集名称: Change Detection Dataset(CDD)
 - 任务: 遥感变化检测 遥感地物类型
 - 发布时间: 2019
 - 模态: 图像

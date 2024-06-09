@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Mapping Challenge](https://www.crowdai.org/challenges/mapping-challenge)
+- 数据集名称: Mapping Challenge
 - 任务: 遥感图像分割 建筑物
 - 发布时间: 2018
 - 模态: 图像

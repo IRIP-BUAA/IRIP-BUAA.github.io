@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data)
+- 数据集名称: Dstl Satellite Imagery Feature Detection
 - 任务: 遥感图像分割 遥感地物类型
 - 发布时间: 2017
 - 模态: 图像

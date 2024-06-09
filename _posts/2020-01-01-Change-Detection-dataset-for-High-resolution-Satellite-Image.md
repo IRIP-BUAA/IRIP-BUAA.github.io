@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Change-Detection-dataset-for-High-resolution-Satellite-Image](https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery)
+- 数据集名称: Change-Detection-dataset-for-High-resolution-Satellite-Image
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2020
 - 模态: 图像

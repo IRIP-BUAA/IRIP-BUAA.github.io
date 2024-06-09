@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU TCL SatMVS dataset1.0](http://gpcv.whu.edu.cn/data/whu_tlc.html)
+- 数据集名称: WHU TCL SatMVS dataset1.0
 - 任务: 遥感图像生成 三维重建
 - 发布时间: 2021
 - 模态: 图像

@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [CASIA-Ship](https://aistudio.baidu.com/datasetdetail/131586)
+- 数据集名称: CASIA-Ship
 - 任务: 遥感目标检测 船体检测
 - 发布时间: 2021
 - 模态: 图像

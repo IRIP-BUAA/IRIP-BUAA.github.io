@@ -7,7 +7,7 @@ tags: [dataset, 图像、文本]
 math: true
 pin: false
 ---
-- 数据集名称: [SkyScript](https://opendatasharing.s3.us-west-2.amazonaws.com/SkyScript)
+- 数据集名称: SkyScript
 - 任务: 遥感图像字幕
 - 发布时间: 2023
 - 模态: 图像、文本

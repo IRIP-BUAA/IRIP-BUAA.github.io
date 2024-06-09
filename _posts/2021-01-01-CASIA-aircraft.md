@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [CASIA-aircraft](https://www.rsaicp.com/portal/dataDetail?id=16)
+- 数据集名称: CASIA-aircraft
 - 任务: 遥感目标检测 飞机检测
 - 发布时间: 2021
 - 模态: 图像

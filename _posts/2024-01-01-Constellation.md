@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Constellation](https://github.com/zk2172-columbia/constellation-dataset)
+- 数据集名称: Constellation
 - 任务: 遥感图像目标检测 高海拔下的目标检测
 - 发布时间: 2024
 - 模态: 图像

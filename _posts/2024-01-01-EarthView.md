@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [EarthView](https://huggingface.co/datasets/satellogic/EarthView/tree/main)
+- 数据集名称: EarthView
 - 任务: 遥感模型预训练
 - 发布时间: 2024
 - 模态: 图像

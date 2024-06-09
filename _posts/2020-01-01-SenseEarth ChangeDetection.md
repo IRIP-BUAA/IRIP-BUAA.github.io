@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [SenseEarth ChangeDetection](https://rs.sensetime.com/competition/index.html#/info)
+- 数据集名称: SenseEarth ChangeDetection
 - 任务: 遥感变化检测 遥感地物类型
 - 发布时间: 2020
 - 模态: 图像

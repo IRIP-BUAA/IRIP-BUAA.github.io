@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Massachusetts Builds](https://www.cs.toronto.edu/~vmnih/data/)
+- 数据集名称: Massachusetts Builds
 - 任务: 遥感图像分割
 - 发布时间: 2013
 - 模态: 图像

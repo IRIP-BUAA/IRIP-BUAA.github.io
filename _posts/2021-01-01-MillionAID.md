@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [MillionAID](https://captain-whu.github.io/DiRS/)
+- 数据集名称: MillionAID
 - 任务: 遥感图像场景分类
 - 发布时间: 2021
 - 模态: 图像

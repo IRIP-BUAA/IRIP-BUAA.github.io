@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [RarePlanes](https://www.cosmiqworks.org/RarePlanes/ https://www.graviti.cn/open-datasets/RarePlanes)
+- 数据集名称: RarePlanes
 - 任务: 遥感图像检测
 - 发布时间: 2020
 - 模态: 图像

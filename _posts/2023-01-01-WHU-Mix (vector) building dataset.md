@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU-Mix (vector) building dataset](http://gpcv.whu.edu.cn/data/whu-mix%20(vector)/whu_mix(vector).html)
+- 数据集名称: WHU-Mix (vector) building dataset
 - 任务: 遥感图像分割 建筑物分割
 - 发布时间: 2023
 - 模态: 图像

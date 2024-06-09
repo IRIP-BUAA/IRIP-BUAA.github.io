@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [PatternNet](https://sites.google.com/view/zhouwx/dataset)
+- 数据集名称: PatternNet
 - 任务: 遥感图像分类
 - 发布时间: 2018
 - 模态: 图像

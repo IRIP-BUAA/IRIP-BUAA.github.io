@@ -24,7 +24,7 @@ pin: false
 """
 
         if not pd.isna(row['数据集名称']):
-            md_content += f"- 数据集名称: [{row['数据集名称']}]({row['代码源链接']})\n"
+            md_content += f"- 数据集名称: {row['数据集名称']}\n"
         if not pd.isna(row['任务']):
             md_content += f"- 任务: {row['任务']}\n"
         if not pd.isna(row['发布时间']):

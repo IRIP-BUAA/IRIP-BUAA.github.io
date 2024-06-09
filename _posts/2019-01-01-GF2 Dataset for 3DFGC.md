@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [GF2 Dataset for 3DFGC](http://gpcv.whu.edu.cn/data/3DFGC_pages.html)
+- 数据集名称: GF2 Dataset for 3DFGC
 - 任务: 遥感图像分割
 - 发布时间: 2019
 - 模态: 图像

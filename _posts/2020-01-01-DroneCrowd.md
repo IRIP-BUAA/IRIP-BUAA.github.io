@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [DroneCrowd](https://github.com/VisDrone/VisDrone-Dataset)
+- 数据集名称: DroneCrowd
 - 任务: 遥感图像人群计数
 - 发布时间: 2020
 - 模态: 图像

@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [MiniFrance-DFC22](https://www.grss-ieee.org/community/technical-committees/2022-ieee-grss-data-fusion-contest/)
+- 数据集名称: MiniFrance-DFC22
 - 任务: 遥感图像分割
 - 发布时间: 2022
 - 模态: 图像

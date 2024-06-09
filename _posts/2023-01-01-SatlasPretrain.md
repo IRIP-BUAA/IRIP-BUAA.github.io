@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [SatlasPretrain](https://huggingface.co/allenai/satlas-pretrain/tree/main/dataset)
+- 数据集名称: SatlasPretrain
 - 任务: 遥感图像场景分类
 - 发布时间: 2023
 - 模态: 图像

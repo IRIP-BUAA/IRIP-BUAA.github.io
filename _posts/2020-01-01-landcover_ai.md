@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [landcover_ai](https://landcover.ai.linuxpolska.com/)
+- 数据集名称: landcover_ai
 - 任务: 遥感图像分割
 - 发布时间: 2020
 - 模态: 图像

@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [BH-WATERTANKS](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)
+- 数据集名称: BH-WATERTANKS
 - 任务: 遥感图像分割 水箱分割
 - 发布时间: 2020
 - 模态: 图像

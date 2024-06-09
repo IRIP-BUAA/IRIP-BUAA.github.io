@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [SZTAKI-INRIA AirChange](http://web.eee.sztaki.hu/remotesensing/airchange_benchmark.html)
+- 数据集名称: SZTAKI-INRIA AirChange
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2009
 - 模态: 图像

@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU_GID中的secenClass部分](https://x-ytong.github.io/project/GID.html)
+- 数据集名称: WHU_GID中的secenClass部分
 - 任务: 遥感图像分类
 - 发布时间: 2018
 - 模态: 图像

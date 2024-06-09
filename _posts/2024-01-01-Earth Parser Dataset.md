@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Earth Parser Dataset](https://github.com/romainloiseau/EarthParserDataset)
+- 数据集名称: Earth Parser Dataset
 - 任务: 遥感图像分割 无监督实例分割和语义分割
 - 发布时间: 2024
 - 模态: 图像

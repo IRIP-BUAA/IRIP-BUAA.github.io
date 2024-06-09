@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Urban Drone Dataset(UDD)](https://github.com/MarcWong/UDD)
+- 数据集名称: Urban Drone Dataset(UDD)
 - 任务: 遥感图像分割 地物类型分割
 - 发布时间: 2018
 - 模态: 图像

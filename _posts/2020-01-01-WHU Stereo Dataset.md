@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU Stereo Dataset](http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html)
+- 数据集名称: WHU Stereo Dataset
 - 任务: 遥感图像生成 三维重建
 - 发布时间: 2020
 - 模态: 图像

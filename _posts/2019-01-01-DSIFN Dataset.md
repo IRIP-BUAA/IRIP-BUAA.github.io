@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [DSIFN Dataset](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)
+- 数据集名称: DSIFN Dataset
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2019
 - 模态: 图像

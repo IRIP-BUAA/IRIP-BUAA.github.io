@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Multi-temporal Scene WuHan (MtS-WH)](http://sigma.whu.edu.cn/newspage.php?q=2019_03_26)
+- 数据集名称: Multi-temporal Scene WuHan (MtS-WH)
 - 任务: 遥感变化检测 多时相场景变化检测
 - 发布时间: 2019
 - 模态: 图像

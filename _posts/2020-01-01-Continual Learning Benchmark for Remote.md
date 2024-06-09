@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Continual Learning Benchmark for Remote](https://github.com/lehaifeng/CLRS)
+- 数据集名称: Continual Learning Benchmark for Remote
 - 任务: 遥感图像分类
 - 发布时间: 2020
 - 模态: 图像

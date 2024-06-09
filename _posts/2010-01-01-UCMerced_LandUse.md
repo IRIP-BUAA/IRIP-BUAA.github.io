@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [UCMerced_LandUse](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+- 数据集名称: UCMerced_LandUse
 - 任务: 遥感图像分类
 - 发布时间: 2010
 - 模态: 图像

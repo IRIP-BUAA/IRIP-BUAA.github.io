@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Sun Yat-Sen University (SYSU)-CD](https://github.com/liumency/SYSU-CD)
+- 数据集名称: Sun Yat-Sen University (SYSU)-CD
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2021
 - 模态: 图像

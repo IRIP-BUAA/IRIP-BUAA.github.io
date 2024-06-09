@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [VISO-Detection](https://satvideodt.github.io/)
+- 数据集名称: VISO-Detection
 - 任务: 遥感图像检测
 - 发布时间: 2021
 - 模态: 图像

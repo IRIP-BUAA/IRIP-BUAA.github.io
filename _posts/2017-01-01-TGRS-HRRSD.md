@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [TGRS-HRRSD](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)
+- 数据集名称: TGRS-HRRSD
 - 任务: 遥感图像检测
 - 发布时间: 2017
 - 模态: 图像

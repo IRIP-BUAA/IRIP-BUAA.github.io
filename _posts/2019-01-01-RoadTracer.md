@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [RoadTracer](https://github.com/mitroadmaps/roadtracer/)
+- 数据集名称: RoadTracer
 - 任务: 遥感图像分割
 - 发布时间: 2019
 - 模态: 图像

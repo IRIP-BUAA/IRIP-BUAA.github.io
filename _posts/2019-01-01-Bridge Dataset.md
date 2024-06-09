@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Bridge Dataset](http://www.patreo.dcc.ufmg.br/2019/07/10/bridge-dataset/)
+- 数据集名称: Bridge Dataset
 - 任务: 遥感图像检测
 - 发布时间: 2019
 - 模态: 图像

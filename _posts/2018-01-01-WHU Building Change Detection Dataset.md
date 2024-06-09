@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [WHU Building Change Detection Dataset](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)
+- 数据集名称: WHU Building Change Detection Dataset
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2018
 - 模态: 图像

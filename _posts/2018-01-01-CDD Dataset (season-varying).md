@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [CDD Dataset (season-varying)](https://paperswithcode.com/dataset/cdd-dataset-season-varying)
+- 数据集名称: CDD Dataset (season-varying)
 - 任务: 遥感变化检测 季节变化
 - 发布时间: 2018
 - 模态: 图像

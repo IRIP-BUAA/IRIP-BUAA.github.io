@@ -7,7 +7,7 @@ tags: [dataset, 图像、文本]
 math: true
 pin: false
 ---
-- 数据集名称: [BigEarthNet-MM](https://bigearth.net/)
+- 数据集名称: BigEarthNet-MM
 - 任务: 遥感图像检索和分类
 - 发布时间: 2021
 - 模态: 图像、文本

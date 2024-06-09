@@ -7,7 +7,7 @@ tags: [dataset, 图像、文本]
 math: true
 pin: false
 ---
-- 数据集名称: [VQA-TextRS](nan)
+- 数据集名称: VQA-TextRS
 - 任务: 遥感图像VQA
 - 发布时间: 2022
 - 模态: 图像、文本

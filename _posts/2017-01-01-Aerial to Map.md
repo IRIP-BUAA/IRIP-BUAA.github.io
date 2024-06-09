@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Aerial to Map](https://github.com/phillipi/pix2pix)
+- 数据集名称: Aerial to Map
 - 任务: 遥感图像生成 风格迁移
 - 发布时间: 2017
 - 模态: 图像

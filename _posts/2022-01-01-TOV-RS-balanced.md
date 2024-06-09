@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [TOV-RS-balanced](https://github.com/GeoX-Lab/G-RSIM/tree/main/TOV_v1)
+- 数据集名称: TOV-RS-balanced
 - 任务: 遥感图像场景分类
 - 发布时间: 2022
 - 模态: 图像

@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Multi-View Datasets中的AiRound部分](http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)
+- 数据集名称: Multi-View Datasets中的AiRound部分
 - 任务: 遥感图像分类
 - 发布时间: 2020
 - 模态: 图像

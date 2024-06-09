@@ -7,7 +7,7 @@ tags: [dataset, 图像]
 math: true
 pin: false
 ---
-- 数据集名称: [Onera Satellite Change Detection (OSCD)](https://rcdaudt.github.io/oscd/)
+- 数据集名称: Onera Satellite Change Detection (OSCD)
 - 任务: 遥感变化检测 建筑物
 - 发布时间: 2018
 - 模态: 图像
