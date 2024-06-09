@@ -1,6 +1,16 @@
 import pandas as pd
 from datetime import datetime
-
+import re
+def sanitize_filename(input_string, max_length=255):
+    # 删除非法字符
+    sanitized_string = re.sub(r'[\/:*?"<>|]', '', input_string)
+    # 替换特殊字符
+    sanitized_string = sanitized_string.replace(':', '-')
+    # 处理空格（根据需要可以选择不同的处理方式）
+    sanitized_string = sanitized_string.replace(' ', '_')
+    # 截断文件名（确保总长度不超过指定最大长度）
+    sanitized_string = sanitized_string[:max_length]
+    return sanitized_string
 # 读取Excel文件中的所有表
 excel_file = '遥感大模型论文1.xlsx'
 sheets = pd.read_excel(excel_file, sheet_name=None)
@@ -49,7 +59,7 @@ pin: false
             md_content += f"- 备注: {row['备注']}\n"
 
         # 将Markdown内容写入文件
-        md_filename = '../_posts/' + date_formatted.split(' ')[0] +'-'+ row['Paper'] + '.md'
+        md_filename = '../_posts/' + date_formatted.split(' ')[0] +'-'+ sanitize_filename(row['Paper']) + '.md'
         with open(md_filename, 'w', encoding='utf-8') as file:
             file.write(md_content)
 
