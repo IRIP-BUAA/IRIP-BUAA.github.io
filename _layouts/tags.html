@@ -11,7 +11,7 @@ layout: page
       Paper Tags
     </h2>
     {% assign paper_tags = '' | split: '' %}
-    {% for t in site.tags %}
+    {% for t in site.classes %}
       {% if t[0] == 'paper' %}
         {% assign paper_tags = paper_tags | push: t[0] %}
       {% endif %}
