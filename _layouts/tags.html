@@ -11,12 +11,10 @@ layout: page
       Paper Tags
     </h2>
     {% assign paper_tags = '' | split: '' %}
-    {% for t in site.classes %}
-      <!-- {% if t[0] == 'paper' %}
+    {% for t in site.tags %}
+      {% if t[0] == 'paper' %}
         {% assign paper_tags = paper_tags | push: t[0] %}
-      {% endif %} -->
-
-      {% assign paper_tags = paper_tags | push: t[0] %}
+      {% endif %}
     {% endfor %}
     {% assign sorted_paper_tags = paper_tags | sort_natural %}
     <div class="d-flex flex-wrap">
@@ -24,7 +22,7 @@ layout: page
         <div>
           <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
             {{ t -}}
-            <span class="text-muted">{{ site.classes[t].size }}</span>
+            <span class="text-muted">{{ site.tags[t].size }}</span>
           </a>
         </div>
       {% endfor %}
