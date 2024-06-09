@@ -5,7 +5,7 @@ layout: page
 
 {% include lang.html %}
 
-<!-- <div id="page-tag">
+<div id="page-tag">
   <h1 class="ps-lg-2">
     <i class="fa fa-tag fa-fw text-muted"></i>
     {{ page.title }}
@@ -20,49 +20,4 @@ layout: page
       </li>
     {% endfor %}
   </ul>
-</div> -->
-
-<div id="page-tag">
-  <h1 class="ps-lg-2">
-    <i class="fa fa-tag fa-fw text-muted"></i>
-    {{ page.title }}
-  </h1>
-
-  <!-- Section for Paper Tags -->
-  <div id="paper-tags" class="my-4">
-    <h2 class="ps-lg-2">
-      <i class="fa fa-file-text-o fa-fw text-muted"></i>
-      Paper Tags
-      <span class="lead text-muted ps-2">{{ page.posts | where: "category", "paper" | size }}</span>
-    </h2>
-    <ul class="content ps-0">
-      {% assign paper_posts = page.posts | where: "category", "paper" %}
-      {% for post in paper_posts %}
-        <li class="d-flex justify-content-between px-md-3">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <span class="dash flex-grow-1"></span>
-          {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-
-  <!-- Section for Dataset Tags -->
-  <div id="dataset-tags" class="my-4">
-    <h2 class="ps-lg-2">
-      <i class="fa fa-database fa-fw text-muted"></i>
-      Dataset Tags
-      <span class="lead text-muted ps-2">{{ page.posts | where: "category", "dataset" | size }}</span>
-    </h2>
-    <ul class="content ps-0">
-      {% assign dataset_posts = page.posts | where: "category", "dataset" %}
-      {% for post in dataset_posts %}
-        <li class="d-flex justify-content-between px-md-3">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <span class="dash flex-grow-1"></span>
-          {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
 </div>

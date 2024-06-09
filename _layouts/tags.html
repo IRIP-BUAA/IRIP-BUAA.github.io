@@ -1,0 +1,58 @@
+---
+layout: page
+# All the Tags of posts.
+---
+
+<div id="tags" class="mx-xl-2">
+  <!-- Section for Paper Tags -->
+  <div id="paper-tags" class="my-4">
+    <h2 class="ps-lg-2">
+      <i class="fa fa-file-text-o fa-fw text-muted"></i>
+      Paper Tags
+    </h2>
+    {% assign paper_tags = '' | split: '' %}
+    {% for t in site.tags %}
+      {% assign first_post = site.tags[t] | first %}
+      {% if first_post.category == 'paper' %}
+        {% assign paper_tags = paper_tags | push: t %}
+      {% endif %}
+    {% endfor %}
+    {% assign sorted_paper_tags = paper_tags | sort_natural %}
+    <div class="d-flex flex-wrap">
+      {% for t in sorted_paper_tags %}
+        <div>
+          <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
+            {{ t -}}
+            <span class="text-muted">{{ site.tags[t].size }}</span>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Section for Dataset Tags -->
+  <div id="dataset-tags" class="my-4">
+    <h2 class="ps-lg-2">
+      <i class="fa fa-database fa-fw text-muted"></i>
+      Dataset Tags
+    </h2>
+    {% assign dataset_tags = '' | split: '' %}
+    {% for t in site.tags %}
+      {% assign first_post = site.tags[t] | first %}
+      {% if first_post.category == 'dataset' %}
+        {% assign dataset_tags = dataset_tags | push: t %}
+      {% endif %}
+    {% endfor %}
+    {% assign sorted_dataset_tags = dataset_tags | sort_natural %}
+    <div class="d-flex flex-wrap">
+      {% for t in sorted_dataset_tags %}
+        <div>
+          <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
+            {{ t -}}
+            <span class="text-muted">{{ site.tags[t].size }}</span>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
