@@ -1,7 +1,7 @@
 ---
 title: A Self-Supervised Cross-Modal Remote Sensing Foundation Model with Multi-Domain Representation and Cross-Domain Fusion
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-03-12 00:00:00 +0800
 categories: [IGARSS]
 tags: [paper, Pretrain]
 math: true

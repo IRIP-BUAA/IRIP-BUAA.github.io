@@ -1,7 +1,7 @@
 ---
 title: On Creating Benchmark Dataset for Aerial Image Interpretation Reviews, Guidances, and Million-AID
 author: Zack
-date: Sensing 2021-01-01 00:00:00 +0800
+date: 2021-05-17 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

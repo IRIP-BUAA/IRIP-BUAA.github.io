@@ -1,7 +1,7 @@
 ---
 title: Towards Geospatial Foundation Models via Continual Pretraining
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-10-24 00:00:00 +0800
 categories: [ICCV]
 tags: [paper, Pretrain]
 math: true

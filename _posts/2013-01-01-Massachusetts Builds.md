@@ -1,7 +1,7 @@
 ---
 title: Massachusetts Builds
 author: Zack
-date: 2013-01-01 00:00:00 +0800
+date: 2013-10-15 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

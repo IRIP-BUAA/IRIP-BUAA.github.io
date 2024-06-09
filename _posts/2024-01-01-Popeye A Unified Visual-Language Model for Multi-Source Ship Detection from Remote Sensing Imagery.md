@@ -1,7 +1,7 @@
 ---
 title: Popeye A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-02-12 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, MLLM]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: USat A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-04-18 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

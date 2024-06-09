@@ -1,7 +1,7 @@
 ---
 title: Bootstrapping Interactive Image-Text Alignment for Remote Sensing Image Captioning
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-05-14 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, VLM]
 math: true

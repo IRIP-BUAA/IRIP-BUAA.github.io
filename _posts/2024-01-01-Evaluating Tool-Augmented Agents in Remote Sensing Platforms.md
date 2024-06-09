@@ -1,7 +1,7 @@
 ---
 title: Evaluating Tool-Augmented Agents in Remote Sensing Platforms
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-06-14 00:00:00 +0800
 categories: [ICLR]
 tags: [paper, Agent]
 math: true

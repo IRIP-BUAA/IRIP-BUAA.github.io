@@ -1,7 +1,7 @@
 ---
 title: MillionAID
 author: Zack
-date: 2021-01-01 00:00:00 +0800
+date: 2021-10-23 00:00:00 +0800
 categories: [分类]
 tags: [dataset, 图像]
 math: true

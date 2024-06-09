@@ -1,7 +1,7 @@
 ---
 title: RemoteCLIP A Vision Language Foundation Model for Remote Sensing
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-09-25 00:00:00 +0800
 categories: [TGRS]
 tags: [paper, VLM]
 math: true

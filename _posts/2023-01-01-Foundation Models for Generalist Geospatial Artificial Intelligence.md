@@ -1,7 +1,7 @@
 ---
 title: Foundation Models for Generalist Geospatial Artificial Intelligence
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-04-19 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

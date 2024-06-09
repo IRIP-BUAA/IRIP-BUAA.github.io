@@ -1,7 +1,7 @@
 ---
 title: Consecutive Pre-Training A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain
 author: Zack
-date: Sensing 2022-01-01 00:00:00 +0800
+date: 2022-03-22 00:00:00 +0800
 categories: [Remote]
 tags: [paper, Pretrain]
 math: true

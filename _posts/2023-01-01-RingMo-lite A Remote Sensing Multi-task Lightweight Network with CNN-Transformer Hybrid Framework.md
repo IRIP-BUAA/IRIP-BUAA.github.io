@@ -1,7 +1,7 @@
 ---
 title: RingMo-lite A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-09-26 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

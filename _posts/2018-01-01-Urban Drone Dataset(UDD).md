@@ -1,7 +1,7 @@
 ---
 title: Urban Drone Dataset(UDD)
 author: Zack
-date: 2018-01-01 00:00:00 +0800
+date: 2018-10-01 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

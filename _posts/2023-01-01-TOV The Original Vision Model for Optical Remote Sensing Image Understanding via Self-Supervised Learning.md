@@ -1,7 +1,7 @@
 ---
 title: TOV The Original Vision Model for Optical Remote Sensing Image Understanding via Self-Supervised Learning
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-04-11 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

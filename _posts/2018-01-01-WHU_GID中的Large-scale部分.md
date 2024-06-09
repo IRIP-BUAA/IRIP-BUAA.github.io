@@ -1,7 +1,7 @@
 ---
 title: WHU_GID中的Large-scale部分
 author: Zack
-date: 2018-01-01 00:00:00 +0800
+date: 2018-01-13 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

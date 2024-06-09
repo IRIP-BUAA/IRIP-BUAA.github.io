@@ -1,7 +1,7 @@
 ---
 title: Transforming remote sensing images to textual descriptions
 author: Zack
-date: 2022-01-01 00:00:00 +0800
+date: 2022-11-14 00:00:00 +0800
 categories: [INT]
 tags: [paper, Other]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Onera Satellite Change Detection (OSCD)
 author: Zack
-date: 2018-01-01 00:00:00 +0800
+date: 2018-06-24 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

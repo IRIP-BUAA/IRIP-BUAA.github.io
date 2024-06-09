@@ -1,7 +1,7 @@
 ---
 title: S2MAE A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-12-28 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

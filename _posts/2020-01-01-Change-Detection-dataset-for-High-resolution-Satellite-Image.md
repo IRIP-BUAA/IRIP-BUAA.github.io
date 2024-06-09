@@ -1,7 +1,7 @@
 ---
 title: Change-Detection-dataset-for-High-resolution-Satellite-Image
 author: Zack
-date: 2020-01-01 00:00:00 +0800
+date: 2020-05-01 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

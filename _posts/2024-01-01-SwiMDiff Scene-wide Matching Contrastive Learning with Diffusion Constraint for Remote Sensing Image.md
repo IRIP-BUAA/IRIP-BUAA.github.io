@@ -1,7 +1,7 @@
 ---
 title: SwiMDiff Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-02-14 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

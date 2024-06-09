@@ -1,7 +1,7 @@
 ---
 title: LeMeViT Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-12-12 00:00:00 +0800
 categories: [IJCAI]
 tags: [paper, Other]
 math: true

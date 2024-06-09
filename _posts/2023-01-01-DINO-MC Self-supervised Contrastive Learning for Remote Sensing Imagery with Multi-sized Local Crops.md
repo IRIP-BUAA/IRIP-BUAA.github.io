@@ -1,7 +1,7 @@
 ---
 title: DINO-MC Self-supervised Contrastive Learning for Remote Sensing Imagery with Multi-sized Local Crops
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-09-17 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

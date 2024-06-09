@@ -1,7 +1,7 @@
 ---
 title: Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-04-25 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Pretrain]
 math: true

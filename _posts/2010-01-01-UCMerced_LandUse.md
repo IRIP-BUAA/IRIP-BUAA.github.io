@@ -1,7 +1,7 @@
 ---
 title: UCMerced_LandUse
 author: Zack
-date: 2010-01-01 00:00:00 +0800
+date: 2010-04-28 00:00:00 +0800
 categories: [分类]
 tags: [dataset, 图像]
 math: true

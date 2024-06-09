@@ -1,7 +1,7 @@
 ---
 title: DSIFN Dataset
 author: Zack
-date: 2019-01-01 00:00:00 +0800
+date: 2019-03-20 00:00:00 +0800
 categories: [变化检测]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: SkyScript A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-01-21 00:00:00 +0800
 categories: [AAAI]
 tags: [paper, VLM]
 math: true

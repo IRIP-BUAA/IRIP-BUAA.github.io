@@ -1,7 +1,7 @@
 ---
 title: Change-Agent Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-04-10 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Agent]
 math: true

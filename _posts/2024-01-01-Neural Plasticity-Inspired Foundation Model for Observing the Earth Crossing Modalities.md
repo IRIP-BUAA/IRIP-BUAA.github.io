@@ -1,7 +1,7 @@
 ---
 title: Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-11-15 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

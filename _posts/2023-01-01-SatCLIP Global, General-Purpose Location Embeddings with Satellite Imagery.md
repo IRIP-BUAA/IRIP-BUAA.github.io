@@ -1,7 +1,7 @@
 ---
 title: SatCLIP Global, General-Purpose Location Embeddings with Satellite Imagery
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-09-15 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Other]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Generative ConvNet Foundation Model With Sparse Modeling and Low-Frequency Reconstruction for Remote Sensing Image Interpretation
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-08-12 00:00:00 +0800
 categories: [TGRS]
 tags: [paper, Pretrain]
 math: true

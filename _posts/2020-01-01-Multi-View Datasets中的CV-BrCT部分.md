@@ -1,7 +1,7 @@
 ---
 title: Multi-View Datasets中的CV-BrCT部分
 author: Zack
-date: 2020-01-01 00:00:00 +0800
+date: 2020-10-27 00:00:00 +0800
 categories: [分类]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: An Empirical Study of Remote Sensing Pretraining
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-12-16 00:00:00 +0800
 categories: [IEEE]
 tags: [paper, Pretrain]
 math: true

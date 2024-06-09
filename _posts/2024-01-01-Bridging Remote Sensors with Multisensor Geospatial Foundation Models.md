@@ -1,7 +1,7 @@
 ---
 title: Bridging Remote Sensors with Multisensor Geospatial Foundation Models
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-01-16 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, Other]
 math: true

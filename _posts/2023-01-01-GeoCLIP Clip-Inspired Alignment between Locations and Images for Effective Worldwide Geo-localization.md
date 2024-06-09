@@ -1,7 +1,7 @@
 ---
 title: GeoCLIP Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-07-16 00:00:00 +0800
 categories: [NeurIPS]
 tags: [paper, Other]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: The Potential of Visual ChatGPT for Remote Sensing
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-05-18 00:00:00 +0800
 categories: [RS]
 tags: [paper, Other]
 math: true

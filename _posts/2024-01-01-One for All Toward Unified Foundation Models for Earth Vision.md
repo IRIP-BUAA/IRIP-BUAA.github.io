@@ -1,7 +1,7 @@
 ---
 title: One for All Toward Unified Foundation Models for Earth Vision
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-10-01 00:00:00 +0800
 categories: [Arxiv]
 tags: [paper, Pretrain]
 math: true

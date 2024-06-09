@@ -1,7 +1,7 @@
 ---
 title: WHU Multi-view Dataset
 author: Zack
-date: 2020-01-01 00:00:00 +0800
+date: 2020-02-26 00:00:00 +0800
 categories: [图像生成]
 tags: [dataset, 图像]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: SatlasPretrain
 author: Zack
-date: 2023-01-01 00:00:00 +0800
+date: 2023-05-16 00:00:00 +0800
 categories: [分类]
 tags: [dataset, 图像]
 math: true

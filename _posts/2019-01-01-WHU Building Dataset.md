@@ -1,7 +1,7 @@
 ---
 title: WHU Building Dataset
 author: Zack
-date: 2019-01-01 00:00:00 +0800
+date: 2019-02-17 00:00:00 +0800
 categories: [分割]
 tags: [dataset, 图像]
 math: true

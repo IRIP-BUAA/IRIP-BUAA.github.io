@@ -1,7 +1,7 @@
 ---
 title: GeoChat Grounded Large Vision-Language Model for Remote Sensing
 author: Zack
-date: 2024-01-01 00:00:00 +0800
+date: 2024-02-14 00:00:00 +0800
 categories: [CVPR]
 tags: [paper, MLLM]
 math: true
