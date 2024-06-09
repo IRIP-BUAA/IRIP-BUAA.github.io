@@ -12,12 +12,9 @@ layout: page
     </h2>
     {% assign paper_tags = '' | split: '' %}
     {% for t in site.tags %}
-      <!-- {% assign first_post = site.tags[t] | first %} -->
-      <!-- {% if first_post.category == 'paper' %}
-        {% assign paper_tags = paper_tags | push: t %}
-      {% endif %} -->
-
-      {% assign paper_tags = paper_tags | push: t[0] %}
+      {% if t[0] == 'paper' %}
+        {% assign paper_tags = paper_tags | push: t[0] %}
+      {% endif %}
     {% endfor %}
     {% assign sorted_paper_tags = paper_tags | sort_natural %}
     <div class="d-flex flex-wrap">
@@ -40,9 +37,8 @@ layout: page
     </h2>
     {% assign dataset_tags = '' | split: '' %}
     {% for t in site.tags %}
-      {% assign first_post = site.tags[t] | first %}
-      {% if first_post.category == 'dataset' %}
-        {% assign dataset_tags = dataset_tags | push: t %}
+      {% if t[0] == 'dataset' %}
+        {% assign dataset_tags = dataset_tags | push: t[0] %}
       {% endif %}
     {% endfor %}
     {% assign sorted_dataset_tags = dataset_tags | sort_natural %}
