@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: RS-VLMs # the main title
 
-tagline: Recent Advances in remote sensing vision language models # it will display as the sub-title
+tagline: Recent Advances in remote sensing vision language models and datasets # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A website to search the latest advances in the research of RS-VLMs.
